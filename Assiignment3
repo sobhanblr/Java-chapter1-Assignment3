@@ -1,0 +1,14 @@
+//Assignment 3
+
+//Assignment 3 Give two examples of data that cannot be stored in a variable of type int.
+public class Assignment3 {
+
+    public static void main(String[] args) {
+    //Answer     
+    int i = 'hi' ; int j = 'test';
+//or
+//Answer 
+int i = "hi" ; int j = "test";
+    }
+
+}
